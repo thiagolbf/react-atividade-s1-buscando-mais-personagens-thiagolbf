@@ -1,0 +1,30 @@
+.alive {
+  width: 200px;
+  display: inline-block;
+  margin: 5px;
+  border: 2px solid black;
+  background-color: lightblue;
+}
+
+.morto {
+  width: 200px;
+  display: inline-block;
+  margin: 5px;
+  border: 2px solid black;
+  background-color: lightcoral;
+}
+
+div p {
+  text-align: center;
+}
+
+div figure {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+div figure img {
+  width: 100px;
+  height: 100px;
+}

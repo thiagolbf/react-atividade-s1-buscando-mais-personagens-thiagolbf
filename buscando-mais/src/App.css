@@ -1,0 +1,14 @@
+.App {
+}
+
+.App button {
+  display: block;
+  margin: auto;
+  width: 100px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.App button:hover {
+  cursor: pointer;
+}
